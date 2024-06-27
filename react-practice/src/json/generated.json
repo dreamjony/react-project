@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "6661b6d3feb5997c21b7a4b5",
+    "name": "Lucille Bauer",
+    "age": 29,
+    "gender": "female",
+    "email": "lucillebauer@extragene.com",
+    "phone": "+1 (853) 538-3418",
+    "address": "Brownsville"
+  },
+  {
+    "_id": "6661b6d3fda571e2b04fa772",
+    "name": "Hancock Macdonald",
+    "age": 37,
+    "gender": "male",
+    "email": "hancockmacdonald@extragene.com",
+    "phone": "+1 (915) 538-3278",
+    "address": "Hillsboro"
+  },
+  {
+    "_id": "6661b6d33d90123aeea45611",
+    "name": "Brennan Brooks",
+    "age": 30,
+    "gender": "male",
+    "email": "brennanbrooks@extragene.com",
+    "phone": "+1 (993) 580-2989",
+    "address": "Rodman"
+  },
+  {
+    "_id": "6661b6d3bcc18952c1ca8e0f",
+    "name": "Morales Mcbride",
+    "age": 32,
+    "gender": "male",
+    "email": "moralesmcbride@extragene.com",
+    "phone": "+1 (993) 503-3219",
+    "address": "Alfarata"
+  },
+  {
+    "_id": "6661b6d3500f97a94cd45d5b",
+    "name": "Janis Lang",
+    "age": 27,
+    "gender": "female",
+    "email": "janislang@extragene.com",
+    "phone": "+1 (857) 492-2742",
+    "address": "Abiquiu"
+  },
+  {
+    "_id": "6661b6d3db5d88dbde208498",
+    "name": "Avila Holcomb",
+    "age": 24,
+    "gender": "male",
+    "email": "avilaholcomb@extragene.com",
+    "phone": "+1 (836) 584-3751",
+    "address": "Succasunna"
+  },
+  {
+    "_id": "6661b6d3c8739c0d6b34f0d2",
+    "name": "Stefanie Roberts",
+    "age": 31,
+    "gender": "female",
+    "email": "stefanieroberts@extragene.com",
+    "phone": "+1 (873) 485-2578",
+    "address": "Brady"
+  },
+  {
+    "_id": "6661b6d3e852242262402df3",
+    "name": "Diann Weeks",
+    "age": 33,
+    "gender": "female",
+    "email": "diannweeks@extragene.com",
+    "phone": "+1 (990) 440-3654",
+    "address": "Martell"
+  },
+  {
+    "_id": "6661b6d3e98d35ace46c3005",
+    "name": "Lacy Barrera",
+    "age": 30,
+    "gender": "female",
+    "email": "lacybarrera@extragene.com",
+    "phone": "+1 (932) 493-2785",
+    "address": "Bladensburg"
+  },
+  {
+    "_id": "6661b6d3561d765740147d7d",
+    "name": "Copeland Frazier",
+    "age": 22,
+    "gender": "male",
+    "email": "copelandfrazier@extragene.com",
+    "phone": "+1 (930) 415-3323",
+    "address": "Bonanza"
+  }
+]
